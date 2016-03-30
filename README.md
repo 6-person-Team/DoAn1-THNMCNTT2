@@ -1,2 +1,2 @@
-# Nh-m-th-c-h-nh-CNTT2
-ahihi
+# DoAn1-THNMCNTT2
+Developers
