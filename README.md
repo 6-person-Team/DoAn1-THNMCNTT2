@@ -3,4 +3,4 @@ Project: Quy trình tạo lập một hệ thống điều khiển thiết bị 
 
 Website chính thức của đồ án 1
 
-http://thnmcntt2.github.io/DoAn1-THNMCNTT2/
+http://6-person-team.github.io/DoAn1-THNMCNTT2/
